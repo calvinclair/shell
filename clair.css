@@ -1,0 +1,59 @@
+.backgroundyellow{
+  background-color: yellow;
+}
+
+
+.backgroundyellow{
+  background-color: yellow;
+}
+
+.s{
+background-color: yellow;
+}
+
+.ss{
+  background-color: yellow;
+}
+
+.s{
+  font-family:  Edwardian Script ITC Regular;
+  font-weight: bolder;
+  font-size:80px;
+  color: purple;
+}
+
+.ss{
+  font-family:Edwardian Script ITC Regular;
+  font-weight: bolder;
+  font-size: 80px;
+  colour:purple;
+}
+
+body{
+  font-family: Forte Regular;
+  font weight:bolder;
+  font-size: 30px;
+  text-align:center;
+}
+nav{
+  background-color: #7c1de0;
+  padding:20px;
+  font-size: 20px;
+  height:auto;
+}
+nav a{
+  display:inline-inline-block;
+  padding:20px;
+  color:yellow;
+}
+nav a:hover{
+  background-color: indigo;
+}
+body{
+  background-color:yellow;
+}
+#t{
+  width:200px;
+  height:300px;
+  float:left;
+}
